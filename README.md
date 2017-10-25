@@ -1,2 +1,2 @@
-# C-Aquarium
+# C#-Aquarium
 2D aquarium simulation
